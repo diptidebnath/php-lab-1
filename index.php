@@ -52,6 +52,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/paddington.jpg" class="img-fluid" alt="project2">
               <div class="card-body">
+              <h4>Paddington</h4>
+                <p>7+ | 2h 3m</p>
                 <p class="card-text">Aliquam velit lacus, sodales in tincidunt eget, consectetur accumsan mauris.
                   Integer ut dictum sapien. Nulla vel lectus id urna semper congue.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -68,6 +70,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/Puss_in_Boots.jpg" class="img-fluid" alt="project3">
               <div class="card-body">
+              <h4>Puss in Boots</h4>
+                <p>7+ | 2h 3m</p>
                 <p class="card-text">Pellentesque blandit fringilla pellentesque. Duis posuere turpis in mi tincidunt
                   pellentesque. Duis rhoncus at mi id posuere. Sed nec eros vel sem dapibus rhoncus vitae eu tortor.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -85,6 +89,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/benji.jpg" class="img-fluid" alt="project4">
               <div class="card-body">
+              <h4>Benji</h4>
+                <p>7+ | 2h 3m</p>
                 <p class="card-text">Praesent purus nibh, sagittis sed nulla sed, lacinia iaculis turpis. Sed dapibus
                   fermentum est, eget pharetra diam tempus nec. In tristique ante vel tempus fermentum.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -101,6 +107,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/Madagascar.jpg" class="img-fluid" alt="project5">
               <div class="card-body">
+              <h4>Madagascar</h4>
+                <p>7+ | 2h 3m</p>
                 <p class="card-text">Nullam in felis elementum, porttitor lacus a, aliquet nibh. Vestibulum non euismod
                   ante, quis consectetur nulla. Proin id lacinia ipsum.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -117,6 +125,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/Two_Brothers.jpg" class="img-fluid" alt="project6">
               <div class="card-body">
+              <h4>Two Brothers</h4>
+                <p>7+ | 2h 3m</p>
                 <p class="card-text">Pellentesque sem orci, porta at molestie ut, finibus ac enim. Nullam facilisis,
                   risus at porta efficitur, odio neque sollicitudin turpis, ut viverra lacus justo eu tortor.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -134,6 +144,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/karatekid.jpg" class="img-fluid" alt="project7">
               <div class="card-body">
+              <h4>Karate kid</h4>
+                <p>7+ | 2h 3m</p>
                 <p class="card-text">In aliquet dolor at pellentesque laoreet. Suspendisse feugiat rhoncus nisi, eget
                   lobortis massa consequat quis. Nulla semper commodo aliquet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -150,6 +162,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/dancing.jpg" class="img-fluid" alt="project8">
               <div class="card-body">
+              <h4>Dancing with the Birds</h4>
+                <p>7+ | 2h 3m</p>
                 <p class="card-text">Quisque et arcu luctus, faucibus turpis eget, interdum ex. Vestibulum hendrerit
                   turpis egestas ultricies rutrum. Aliquam at maximus dui.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -166,6 +180,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/cityofgod.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>City of God</h4>
+                <p>13+ | 2h 25m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -181,6 +197,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/The-Prestige.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>The Prestige</h4>
+                <p>13+ | 2h 25m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -196,6 +214,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/avatar.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Avatar</h4>
+                <p>13+ | 2h 25m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -211,6 +231,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/dunkrik.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>The Half of It</h4>
+                <p>13+ | 2h 25m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -226,6 +248,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/candyjar.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Candy Jard</h4>
+                <p>13+ | 2h 25m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -241,6 +265,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/the-half-of-it.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Dunkirk</h4>
+                <p>13+ | 2h 25m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -256,6 +282,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/Kissing_Booth.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>The Kissing Booth</h4>
+                <p>13+ | 2h 25m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -271,6 +299,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/socialnet.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>The Social Network</h4>
+                <p>13+ | 2h 25m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -286,6 +316,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/365dni.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>365 days</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -301,6 +333,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/Parasite.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Parasite</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -316,6 +350,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/Fifty_Shades_of_grey.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>1917</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -331,6 +367,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/midsommar.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Midsommar</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -346,6 +384,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/Marriage_Story.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Marriage Story</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -361,6 +401,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/Waves.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Waves</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -376,6 +418,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/Birds_of_Passag.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Birds of Passage</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -391,6 +435,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/For_Sama.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>For Sama</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -406,6 +452,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/1917.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Fifty Shades of Grey</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -421,6 +469,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/images.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Man in the maze</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -436,6 +486,8 @@ include_once "inc/header.php";
             <div class="card mb-4 shadow-sm">
               <img src="/lab1/asset/img/anti.jpg" class="img-fluid" alt="Third sample avatar image">
               <div class="card-body">
+              <h4>Anti Corona Virus</h4>
+                <p>15+ | 2h 35m</p>
                 <p class="card-text">Quisque consequat velit urna, eget pellentesque neque elementum sed. Vestibulum
                   ullamcorper nibh lacus, molestie commodo nisl accumsan imperdiet.</p>
                 <div class="d-flex justify-content-between align-items-center">

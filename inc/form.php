@@ -129,7 +129,8 @@ if (isset($_SESSION["loggedin"])) { ?>
 
         <div class="ticket formgroup">
             <label for="ticket">Select how meny ticket you want to buy</label><br>
-            <input type="number" id="ticket" name="ticket" value="<?php echo $ticket ?>" placeholder="e.g 2" min="1" max="10" required>
+            <input type="number" id="ticket" name="ticket" value="<?php echo $ticket ?>" placeholder="e.g 2" min="1" max="10" required><br>
+            <small>Price : 125 SEK / ticket</small>
         </div>
 
         <button type="submit" class="btn btn-primary submit-btn">Submit</button>
