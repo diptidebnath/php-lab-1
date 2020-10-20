@@ -4,8 +4,8 @@ include_once "inc/header.php";
   <!-- Main jumbotron for a primary marketing message or call to action -->
   <div class="jumbotron bg-primary">
     <div class="container header-container">
-      <h1 class="display-1">Buy your favourite movie ticket with us!</h1>
-      <p>Mauris in sem non mi bibendum accumsan. Suspendisse potenti. Aenean finibus molestie
+      <h1 class=" text-white display-4">Buy your favourite movie ticket with us!</h1>
+      <p class=" text-white">Mauris in sem non mi bibendum accumsan. Suspendisse potenti. Aenean finibus molestie
           commodo. Nullam auctor mi vestibulum enim auctor molestie.</p>
 
     </div>
