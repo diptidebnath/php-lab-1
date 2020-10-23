@@ -66,7 +66,7 @@ if($error===FALSE):   /* execute if there is no error */
 
 if ($age < 13) { /*  check the age and call the function */
     if ($gurdian == "yes") {
-        $order = checkAgeLimit($movie, 13);
+        $order = checkAgeLimit($movie, 13); /* if found return true, otherwise false */
     } else {
         $order = checkAgeLimit($movie, 7);
     }
